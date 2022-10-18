@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="420a016c-59fa-42fe-a1fe-1930b6fbbd3a" name="Changes" comment="Uradjen planningDrive zaista.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rs/etf/sab/student/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rs/etf/sab/student/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_CourierOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_CourierOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_PackageOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_PackageOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_VehicleOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_VehicleOperations.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/rs/etf/sab/student/StudentMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_AddressOperations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_UserOperations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/rs/etf/sab/student/dm180015_VehicleOperations.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29CqB8Gh3OF2SPMMEhw5VjpAZgf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Desktop/zp_projekat/pgp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Desktop\sab_projekat\kurirskaSluzba" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentMain">
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.etf.sab.student.StudentMain" />
+      <module name="kurirskaSluzba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.etf.sab.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dm180015_CourierRequestOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.etf.sab.student.dm180015_CourierRequestOperations" />
+      <module name="kurirskaSluzba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.etf.sab.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dm180015_PackageOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.etf.sab.student.dm180015_PackageOperations" />
+      <module name="kurirskaSluzba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.etf.sab.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dm180015_UserOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.etf.sab.student.dm180015_UserOperations" />
+      <module name="kurirskaSluzba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.etf.sab.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dm180015_VehicleOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.etf.sab.student.dm180015_VehicleOperations" />
+      <module name="kurirskaSluzba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.etf.sab.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentMain" />
+        <item itemvalue="Application.dm180015_PackageOperations" />
+        <item itemvalue="Application.dm180015_VehicleOperations" />
+        <item itemvalue="Application.dm180015_CourierRequestOperations" />
+        <item itemvalue="Application.dm180015_UserOperations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420a016c-59fa-42fe-a1fe-1930b6fbbd3a" name="Changes" comment="" />
+      <created>1652627281955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652627281955</updated>
+      <workItem from="1652627284902" duration="1789000" />
+      <workItem from="1652693033563" duration="48000" />
+      <workItem from="1652776798048" duration="15866000" />
+      <workItem from="1652812246186" duration="21000" />
+      <workItem from="1652822565548" duration="21136000" />
+      <workItem from="1652944590494" duration="20686000" />
+      <workItem from="1653056429541" duration="6503000" />
+      <workItem from="1653243677783" duration="6569000" />
+      <workItem from="1653402081698" duration="19226000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pokusaj prvog komita">
+      <created>1652627410772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652627410772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Povezano sa bazom i dodat jar sa testovima">
+      <created>1652629081553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652629081553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uradjeno CityOperations, prolaze svi testovi za to.">
+      <created>1652787404157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652787404158</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Uradjeno AddressesOperations, prolaze svi testovi za to.">
+      <created>1652803210070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652803210070</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Zapoceto UsersOperations, dosta mi je za danas.">
+      <created>1652807879207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652807879207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dopunjeno UsersOperations, fali jos getSentPackages.">
+      <created>1652824608509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652824608509</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Zavrseno UsersOperations.">
+      <created>1652860413376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652860413376</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Zavrseno CourierRequestOperations.">
+      <created>1652865713834</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652865713834</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Zavrseno StockroomOperations.">
+      <created>1652868387129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652868387129</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Zavrseno VehicleOperations.">
+      <created>1652885775114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652885775114</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Zavrseno valjda PackageOperations.">
+      <created>1652987307418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652987307418</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Uradjen valjda planningDrive i dodate kopije fajlova za bazu.">
+      <created>1652992829840</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652992829840</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Uradjen planningDrive zaista.">
+      <created>1653412592835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653412592835</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pokusaj prvog komita" />
+    <MESSAGE value="Povezano sa bazom i dodat jar sa testovima" />
+    <MESSAGE value="Uradjeno CityOperations, prolaze svi testovi za to." />
+    <MESSAGE value="Uradjeno AddressesOperations, prolaze svi testovi za to." />
+    <MESSAGE value="Zapoceto UsersOperations, dosta mi je za danas." />
+    <MESSAGE value="Dopunjeno UsersOperations, fali jos getSentPackages." />
+    <MESSAGE value="Zavrseno UsersOperations." />
+    <MESSAGE value="Zavrseno CourierRequestOperations." />
+    <MESSAGE value="Zavrseno StockroomOperations." />
+    <MESSAGE value="Zavrseno VehicleOperations." />
+    <MESSAGE value="Zavrseno valjda PackageOperations." />
+    <MESSAGE value="Uradjen valjda planningDrive i dodate kopije fajlova za bazu." />
+    <MESSAGE value="Uradjen planningDrive zaista." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uradjen planningDrive zaista." />
+  </component>
+</project>
